@@ -1,0 +1,12 @@
+gensim
+google_play_scraper
+matplotlib
+nltk
+numpy
+pandas
+Requests
+Sastrawi
+Sastrawi
+scikit_learn
+seaborn
+wordcloud
